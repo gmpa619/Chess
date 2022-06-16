@@ -1,0 +1,25 @@
+a{margin-left: 22px;margin-right: 22px;}
+.top-div{height: 100px;background-color:white;text-align: center;margin: 0;}
+.chess-board{height: 100px;float: left;}
+.chess-board2{height: 100px;float: right;}
+.main-title{color:#D7A86E;padding-top: 32px;margin: 0;font-family: 'Pacifico', cursive;}
+.titles{background-color:#FFEBC1;height: 25px;margin-top: 2px;margin-bottom: 0px;}
+hr{margin: 0}
+h1{color: #293462;text-align: center;}
+.description{text-align: center;background-color:}
+.iproduct{display: block;position: relative;left: 15px; width: 220px;height: 304px;}
+.aproduct{display: block;text-align: center;}
+body{background-color: }
+.Bottom{background-color: #FFEBC1;height: 320px;text-align: center;padding-top: 0px;}
+.WA{height: 50px;display: inline;position: relative;right: 10px;}
+.number{display: inline;position: relative;bottom: 20px;right: 10px;}
+.pp{height: 50px;}
+h3{color: #293462}
+.HIW{text-align: center;}
+.Chesscom{width: 85%;}
+.ccom{text-align: center;margin: 2px;}
+.GKCB{text-align: center;}
+.Chesscomv{text-align: center;}
+.FCV{text-align: center;}
+.ECV{text-align: center;}
+.RLV{text-align: center;}
